@@ -2,7 +2,7 @@
 #include <string>
 #include <iostream>
 
-class Personne
+class Personne //elle est déjà créer WTF?
 {
 	std::string nom;
 	int age;
